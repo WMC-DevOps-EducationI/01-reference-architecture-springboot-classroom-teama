@@ -7,6 +7,10 @@ Continuous Integration with Java
 2. Make a resume presentation about the Architectural principles and components.
 3. Develop a custom spring boot basic application identifying the principles and components related to objective 2. 
 
+## SpringBoot Project:
+
+**NOTE**: include a Travis CI integration in GitHub Education with Google Classrooms.
+
 ## References
 
 1. [Spring Boot - Tutorial](https://www.educba.com/category/software-development/software-development-tutorials/spring-tutorial/).
