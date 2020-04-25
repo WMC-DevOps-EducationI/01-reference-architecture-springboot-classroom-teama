@@ -17,3 +17,5 @@ Continuous Integration with Java
 2. [Spring Boot reference architecture](https://www.educba.com/spring-boot-architecture/).
 3. [Spring Boot - documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/).
 4. [Reveal.js - Make presentations using HTML](https://github.com/hakimel/reveal.js).
+5. [Travis CI - Introduction](https://travis-ci.org/). 
+6. [Travis CI - Integrationa dn Importing Shared Build Configuration](https://docs.travis-ci.com/user/build-config-imports/).

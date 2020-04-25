@@ -1,8 +1,8 @@
 # export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home
 # export PATH=$JAVA_HOME/bin:$PATH
-
+version: ~> 1.0
 language: java
-jdk: oraclejdk8
+jdk: oraclejdk9
 install: false
 script: mvn -f ./SpringBoot-ReferenceArchitecture clean test
 cache:
