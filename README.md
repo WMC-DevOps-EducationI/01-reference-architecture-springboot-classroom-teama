@@ -9,7 +9,7 @@ Continuous Integration with Java
 
 ## SpringBoot Project:
 
-**NOTE**: include a Travis CI integration in GitHub Education with Google Classrooms.
+**NOTE**: include a Travis CI integration in GitHub Education with Google Classrooms and Eclipse with Spring Boot 4.
 
 ## References
 
