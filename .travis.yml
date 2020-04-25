@@ -4,7 +4,7 @@
 language: java
 jdk: oraclejdk8
 install: false
-script: mvn clean test
+script: mvn -f ./SpringBoot-ReferenceArchitecture clean test
 cache:
   directories:
   - $HOME/.m2
