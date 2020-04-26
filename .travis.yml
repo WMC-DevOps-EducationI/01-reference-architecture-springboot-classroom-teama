@@ -6,7 +6,7 @@ jdk: oraclejdk9
 install: true
 before_script: cd $TRAVIS_BUILD_DIR/SpiringBoot-ReferenceArchitecture
 script: 
-  - mvn clean test
+  - mvn test
 cache:
   directories:
   - $HOME/.m2
