@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": 1
+    },
+    {
+      "name": "Testing command",
+      "setup": "",
+      "run": "mvn -f SpiringBoot-ReferenceArchitecture/pom.xml",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
     }
   ]
 }
