@@ -11,7 +11,7 @@ Continuous Integration with Java
 
 **NOTE**: include a Travis CI integration in GitHub Education with Google Classrooms and Eclipse with Spring Boot 4.
 
-## References
+## References 
 
 1. [Spring Boot - Tutorial](https://www.educba.com/category/software-development/software-development-tutorials/spring-tutorial/).
 2. [Spring Boot reference architecture](https://www.educba.com/spring-boot-architecture/).
