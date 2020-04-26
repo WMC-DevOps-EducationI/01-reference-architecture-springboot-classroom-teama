@@ -4,7 +4,7 @@ version: ~> 1.0
 language: java
 jdk: oraclejdk9
 install: true
-script: mvn -f ./SpringBoot-ReferenceArchitecture clean test
+script: mvn clean test
 cache:
   directories:
   - $HOME/.m2
