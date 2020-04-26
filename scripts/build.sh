@@ -1,2 +1,2 @@
-cd WMC-DevOps-EducationI/01-reference-architecture-springboot-classroom-teama/tree/feature/spring_boot_reference_architecture_description/SpiringBoot-ReferenceArchitecture
+cd $TRAVIS_BUILD_DIRWMC-DevOps-EducationI/01-reference-architecture-springboot-classroom-teama/tree/feature/spring_boot_reference_architecture_description/SpringBoot-ReferenceArchitecture
 mvn clean install
