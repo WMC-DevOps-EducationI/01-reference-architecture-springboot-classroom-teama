@@ -3,7 +3,6 @@
 version: ~> 1.0
 language: java
 jdk: oraclejdk9
-install: false
 before_script: cd $TRAVIS_BUILD_DIR/SpiringBoot-ReferenceArchitecture
 script: 
   - mvn test
