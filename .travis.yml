@@ -2,7 +2,7 @@
 # export PATH=$JAVA_HOME/bin:$PATH
 version: ~> 1.0
 language: java
-jdk: oraclejdk9
+jdk: openjdk9
 install: true
 cache:
   directories:
