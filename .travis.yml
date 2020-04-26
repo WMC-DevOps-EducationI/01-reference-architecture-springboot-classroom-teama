@@ -1,10 +1,10 @@
 # export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home
 # export PATH=$JAVA_HOME/bin:$PATH
 version: ~> 1.0
+before_install: cd SpringBoot-ReferenceArchitecture
 language: java
 jdk: oraclejdk9
 install: true
-before_script: cd SpringBoot-ReferenceArchitecture
 script: mvn clean test
 cache:
   directories:
