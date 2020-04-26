@@ -1,0 +1,2 @@
+cd WMC-DevOps-EducationI/01-reference-architecture-springboot-classroom-teama/tree/feature/spring_boot_reference_architecture_description/SpiringBoot-ReferenceArchitecture
+mvn clean install
