@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Clean and Test",
+      "name": "Build and Test",
       "setup": "",
-      "run": "mvn clean test",
+      "run": "cd ./SpiringBoot-ReferenceArchitecture && mvn clean test",
       "input": "",
       "output": "",
       "comparison": "included",
