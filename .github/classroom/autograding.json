@@ -1,14 +1,14 @@
 {
   "tests": [
     {
-      "name": "Test Spring Boot Reference Architecture Example",
+      "name": "Build and Test",
       "setup": "",
-      "run": "mvn test",
+      "run": "cd ./SpiringBoot-ReferenceArchitecture && mvn clean test",
       "input": "",
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": 1
+      "points": 10
     }
   ]
 }
