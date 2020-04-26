@@ -9,7 +9,7 @@ Continuous Integration with Java
 
 ## SpringBoot Project:
 
-**NOTE**: include a Travis CI integration in GitHub Education with Google Classrooms and Eclipse with Spring Boot 4.
+**NOTE**: include a Travis CI integration in GitHub Education with Google Classrooms and Eclipse with Spring Boot 4. In order to evaluate the process, please review GitHub Education assigment repository and its related Travis CI testing execution results.
 
 ## References 
 
@@ -23,3 +23,4 @@ Continuous Integration with Java
 8. [Travis CI - Integrationa dn Importing Shared Build Configuration-3](https://github.com/numenta/nupic.core/blob/master/.travis.yml/).
 9. [Travis CI - Integrationa dn Importing Shared Build Configuration-4](https://stackoverflow.com/questions/48129400/travis-ci-build-failing-because-my-project-is-one-level-down-from-the-git-reposi).
 10. [Travis CI - Integrationa dn Importing Shared Build Configuration-4](https://docs.travis-ci.com/user/job-lifecycle/).
+11. [GitHub Actions Integration using different directory](https://stackoverflow.com/questions/58139175/running-actions-in-another-directory).
