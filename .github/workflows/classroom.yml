@@ -11,4 +11,3 @@
           - name: Execute testing process
             working-directory: ./SpiringBoot-ReferenceArchitecture
             run: mvn clean test
-          - uses: education/autograding@v1
