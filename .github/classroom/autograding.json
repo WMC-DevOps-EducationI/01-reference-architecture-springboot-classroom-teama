@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "Test Spring Boot Reference Architecture Example",
-      "setup": "",
-      "run": "mvn test",
+      "setup": "cd SpiringBoot-ReferenceArchitecture",
+      "run": "mvn clean test",
       "input": "",
       "output": "",
       "comparison": "included",
