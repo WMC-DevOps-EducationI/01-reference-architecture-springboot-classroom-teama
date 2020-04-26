@@ -4,7 +4,8 @@ version: ~> 1.0
 language: java
 jdk: oraclejdk9
 install: true
-script: build.sh
+before_script: cd SpringBoot-ReferenceArchitecture
+script: mvn clean test
 cache:
   directories:
   - $HOME/.m2
