@@ -19,3 +19,7 @@ Continuous Integration with Java
 4. [Reveal.js - Make presentations using HTML](https://github.com/hakimel/reveal.js).
 5. [Travis CI - Introduction](https://travis-ci.org/). 
 6. [Travis CI - Integrationa dn Importing Shared Build Configuration](https://docs.travis-ci.com/user/build-config-imports/).
+7. [Travis CI - Integrationa dn Importing Shared Build Configuration-2](https://stackoverflow.com/questions/14006810/how-do-i-get-travis-build-working-directory-in-travis-yml).
+8. [Travis CI - Integrationa dn Importing Shared Build Configuration-3](https://github.com/numenta/nupic.core/blob/master/.travis.yml/).
+9. [Travis CI - Integrationa dn Importing Shared Build Configuration-4](https://stackoverflow.com/questions/48129400/travis-ci-build-failing-because-my-project-is-one-level-down-from-the-git-reposi).
+10. [Travis CI - Integrationa dn Importing Shared Build Configuration-4](https://docs.travis-ci.com/user/job-lifecycle/).
