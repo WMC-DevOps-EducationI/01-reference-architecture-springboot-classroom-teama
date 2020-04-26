@@ -4,7 +4,9 @@ version: ~> 1.0
 language: java
 jdk: oraclejdk9
 install: true
-script: scripts/build.sh
+script: 
+  - chmod ugo+x scripts/build.sh 
+  - scripts/build.sh
 cache:
   directories:
   - $HOME/.m2
