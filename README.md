@@ -43,7 +43,7 @@ For example, in the context of a Contact Center, if you have a class called **Ou
          public class RegularContact implements IContact
          public class TelemarketingContact implements IContact
         ```
-    * Then implementing each *callContact()* behavior:
+    * Then implement each *callContact()* behavior:
         ```
           // RegularContact class:
           @Override
