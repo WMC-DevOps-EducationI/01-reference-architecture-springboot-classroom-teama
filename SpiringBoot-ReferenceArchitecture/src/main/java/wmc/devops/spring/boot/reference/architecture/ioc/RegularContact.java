@@ -23,4 +23,8 @@ public class RegularContact implements IContact{
 		return fixedPhone + "-TEL";
 	}
 
+	public String toString() {
+		return "Regular: " + fixedPhone;
+	}
+	
 }

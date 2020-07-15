@@ -48,6 +48,12 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		 <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
+            <scope>provided</scope>
+        </dependency>
+		
 
 		<!-- The following dependencies were included in the init of the Spring 
 			Boot Project -->

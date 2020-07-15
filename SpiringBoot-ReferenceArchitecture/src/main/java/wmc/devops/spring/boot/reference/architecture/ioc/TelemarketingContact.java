@@ -20,4 +20,8 @@ public class TelemarketingContact implements IContact{
 		return cellPhone + "-CEL";
 	}
 
+	public String toString() {
+		return "Telemarketing: " + cellPhone;
+	}
+	
 }
